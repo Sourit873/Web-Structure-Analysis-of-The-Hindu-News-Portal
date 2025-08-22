@@ -1,0 +1,16 @@
+Id,node,InDegree,OutDegree,BetweennessCentrality,PageRank
+v211,https://www.thehindu.com/subscription/freetrial/,6,1,0,0.002700471
+v372,https://www.thehindu.com/profile/author/The-Hindu-Bureau-14355/,96,0,0,0.001867185
+v43,https://www.thehindu.com/food/,161,135,2393.741356,0.001103445
+v215,https://www.thehindu.com/subscription/freetrial/?utm_source=TheHindu&utm_medium=section&utm_campaign=FTbutton,93,1,46.9375,0.000937996
+v228,https://pay.hindu.com/esubspay/,1,0,0,0.000926714
+v229,http://ad.apps.fm/Xqu5BIBeCOREIqFMIJ5-hfE7og6fuV2oOMeOQdRqrE2LOAsYCovCD3BO4Tlr0voJxQxE023YRcpDAfPt4729MIV4EkBzhuiTQ6_P48Dm81I,1,0,0,0.000926714
+v346,https://roofandfloor.thehindu.com/bangalore,1,0,0,0.000926714
+v227,https://thehinduads.com/,1,0,0,0.000926714
+v354,https://frontline.thehindu.com/the-nation/education/witch-hunt-against-tejaswini-desai-highlights-dangers-of-being-a-teacher-in-india-today/article67040371.ece,179,0,0,0.000722073
+v379,https://www.thehindubusinessline.com/markets/swan-energy-shares-rise-following-robust-quarterly-performance/article67200664.ece,158,0,0,0.000683551
+v92,https://www.thehindu.com/news/national/china-doubles-down-on-new-map-tells-india-to-not-over-interpret/article67251703.ece,129,134,2613.854559,0.000634968
+v99,https://www.thehindu.com/news/national/indians-more-likely-than-others-to-believe-indias-influence-is-growing-finds-pew-survey/article67252212.ece,124,128,863.413542,0.000622121
+v28,https://www.thehindu.com/business/hindenburg-20-occrp-alleges-mauritius-based-opaque-funds-invested-millions-of-dollars-in-adani-stock/article67254422.ece,123,127,774.4479613,0.000604329
+v80,https://www.thehindu.com/news/international/philippines-malaysia-indonesia-protest-chinas-map/article67256478.ece,104,130,566.0292562,0.0005901
+v213,https://www.thehindu.com/subscription/freetrial/?utm_source=TheHindu&utm_medium=article&utm_campaign=FTbutton,111,1,55.5,0.000573665
